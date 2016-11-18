@@ -1,0 +1,46 @@
+
+body {
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+article {
+	
+	height: 30%;
+	max-width: 30%;
+	width: 30%;
+	margin-bottom: 2rem;
+	border: solid 1px lightblue;
+}
+
+img {
+		max-width:100%;
+		max-height: 200px;
+		margin: auto;
+
+}
+#seven{
+	
+}
+
+
+.title {
+
+	border: dotted 1px	lightgray
+}
+
+.center {
+
+	text-align: center;
+}
+.bold {
+	font-weight: bold;
+	margin-left: 1rem;
+}
+.availability {
+	max-width: 100%;
+	color: yellow;
+	background-color: darkgrey;
+}
+
